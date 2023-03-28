@@ -1,0 +1,23 @@
+<student>
+  <name>Anastasiia</name>
+  <age>25</age>
+  <gender>female</gender>
+  <studentId>KEEEEK100500</studentId>
+  <courses>
+    <course>Music</course>
+    <course>Dancing</course>
+    <course>Singing</course>
+  </courses>
+  <avaragescore>2.5</avaragescore>
+  <contactInfo>
+    <email>nastushka@example.com</email>
+    <phone>+380-63-000-1111</phone>
+    <address>
+      <street>22 Other St</street>
+      <city>Kyiv</city>
+      <zip>91919</zip>
+    </address>
+  </contactInfo>
+  <isActive>true</isActive>
+  <enrollmentDate>2023-03-14</enrollmentDate>
+</student>

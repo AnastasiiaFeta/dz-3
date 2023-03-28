@@ -1,0 +1,19 @@
+{
+  "name": "Anastasiia",
+  "age": 25,
+  "gender": "female",
+  "studentId": "LOLKEK01",
+  "courses": ["History", "Spanish", "Chemistry"],
+  "avaradgescore": 3.5,
+  "contactInfo": {
+    "email": "anastasiia.f@example.com",
+    "phone": "+3 800-111-1111",
+    "address": {
+      "street": "111 That St",
+      "city": "Kyiv",
+      "zip": "12345"
+    }
+  },
+  "isActive": true,
+  "enrollmentDate": "2023-03-14"
+}
